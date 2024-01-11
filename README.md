@@ -33,7 +33,7 @@ This code uses datasets in json format with the following configuration:
     }
 ```
 
-Data produced by [WikiNews source](https://github.com/Klaifer/WikiNewsDataset) is generated in this format.
+Data produced by [WikiNews source](https://github.com/Klaifer/PortugueseNewsDataset) is generated in this format.
 
 Additionally, we include the article ids in data/FolhaSP to replicate the separation into training and test sets.
 
